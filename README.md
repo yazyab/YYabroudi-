@@ -14,6 +14,7 @@ My goal is to blend my academic knowledge in business analytics with practical s
 
 ## Projects from Q 1/2-2023
 https://github.com/yazyab/Course-Project-2 ( Using R Studio to monitor pollution levels in USA )
+
 https://github.com/yazyab/ExData_Plotting1 ( Using R Studio to analyze energy consumption globally )
 
 

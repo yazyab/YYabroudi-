@@ -14,4 +14,4 @@ My mission is to synergize my academic insights in business analytics with hands
 - **Global Energy Consumption Analysis:** [ExData Plotting1](https://github.com/yazyab/ExData_Plotting1) - Investigating global energy consumption trends with R Studio.
 
 ### 📫 **Connect With Me**
-I'm always open to new collaborations and ideas. Connect with me on [LinkedIn](#) or drop me an email at `yaze
+I'm always open to new collaborations and ideas. Connect with me on [LinkedIn](#) or drop me an email at `yazeedyabroudi@student.ie.edu`. Let's push the boundaries of data analytics and business intelligence together!

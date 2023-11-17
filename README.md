@@ -12,8 +12,10 @@ I'm currently pursuing my Master's in Business Analytics and Big Data. I'm deepl
 My goal is to blend my academic knowledge in business analytics with practical skills in Python, SQL, and Machine Learning to become a proficient data analyst. I aim to contribute to projects that focus on data-driven decision making and offer innovative solutions.
 
 
-## Projects from Q2-2023
-https://github.com/yazyab/Course-Project-2
+## Projects from Q 1/2-2023
+https://github.com/yazyab/Course-Project-2 ( Using R Studio to monitor pollution levels in USA )
+https://github.com/yazyab/ExData_Plotting1 ( Using R Studio to analyze energy consumption globally )
+
 
 ## 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn]((http://linkedin.com/in/yyabroudi)) or send me an email at `yazeedyabroudi@student.ie.edu.
